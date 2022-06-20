@@ -183,10 +183,6 @@ def generate_class_schedule2():
         global currentDate
         date = currentDate
 
-        # for value in data:
-        #     list = value.split(" - ")
-        #     date = list[0]
-
 
         for widget in root.winfo_children():
             if widget.winfo_class() != 'Label':
