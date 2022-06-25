@@ -1,7 +1,7 @@
 # Class-Scheduler
 python tkinter app
 
-_____________________________________________________________
+
 
 **Options**
 
