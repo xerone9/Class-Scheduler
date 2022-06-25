@@ -39,7 +39,7 @@ ________________________________________________________________________
 
 Removing teacher in the final screen where you are creating time table. sometimes it wont remove teacher or destroys the entire time table
 
-Dont Use "-" symboe While saving time slots i.e: "09:00 - 10:00" dont use that instead use "09:00 TO 10:00". That symbol is reserved as I split string with that symbol for working.
+Dont Use "-" symbol While saving time slots i.e: "09:00 - 10:00" dont use that instead use "09:00 TO 10:00". That symbol is reserved as I split string with that symbol for working.
 
 Use 24Hrs system either wise when clicked on auto generate it'll schedule 03:00pm timing slot first and 09:00am timing slot below it so try using 15:00 instead of 03:00pm
 
