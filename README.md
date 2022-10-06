@@ -39,9 +39,9 @@ ________________________________________________________________________
 
 Removing teacher in the final screen where you are creating time table. sometimes it wont remove teacher or destroys the entire time table
 
-Dont Use "-" symbol While saving time slots i.e: "09:00 - 10:00" dont use that instead use "09:00 TO 10:00". That symbol is reserved as I split string with that symbol for working.
+Dont Use "-" symbol While saving time slots i.e: "09:00 - 10:00" dont use that instead use "09:00 TO 10:00". That symbol is reserved as I split string with that symbol for working. _Fixed In (Django) Online Version Of The Project. It'll show you clock to set time_
 
-Use 24Hrs system either wise when clicked on auto generate it'll schedule 03:00pm timing slot first and 09:00am timing slot below it so try using 15:00 instead of 03:00pm
+Use 24Hrs system either wise when clicked on auto generate it'll schedule 03:00pm timing slot first and 09:00am timing slot below it so try using 15:00 instead of 03:00pm. _Fixed In (Django) Online Version Of The Project. It'll show you clock to set time_
 
 _________________________________________________________________________
 
@@ -49,4 +49,13 @@ _________________________________________________________________________
 
 Teacher time reserve and room reserve. Currently that option is just collecting data but has no impact but in future when the a particular whom had given you a specific time and room then once that teacher is selected for teaching automatically that time and room will be assigned to him
 
-All time tables are stored in an sql table file but you cannot access the old time table. In future will add option to view old time tables
+All time tables are stored in an sql table file but you cannot access the old time table. In future will add option to view old time tables. _Fixed in (Django) Online Version_
+
+_________________________________________________________________________
+
+**Same Project In Django:**
+
+Hosted Here: https://django.rubick.org/class-scheduler/
+Github Link: https://github.com/xerone9/Class-Scheduler-Django
+
+_________________________________________________________________________
