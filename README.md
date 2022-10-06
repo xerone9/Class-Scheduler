@@ -49,13 +49,14 @@ _________________________________________________________________________
 
 Teacher time reserve and room reserve. Currently that option is just collecting data but has no impact but in future when the a particular whom had given you a specific time and room then once that teacher is selected for teaching automatically that time and room will be assigned to him
 
-All time tables are stored in an sql table file but you cannot access the old time table. In future will add option to view old time tables. _Fixed in (Django) Online Version_
+All time tables are stored in an sql table file but you cannot access the old time table. In future will add option to view old time tables. _Added in (Django) Online Version_
 
 _________________________________________________________________________
 
 **Same Project In Django:**
 
 Hosted Here: https://django.rubick.org/class-scheduler/
+
 Github Link: https://github.com/xerone9/Class-Scheduler-Django
 
 _________________________________________________________________________
