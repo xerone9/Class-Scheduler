@@ -57,6 +57,6 @@ _________________________________________________________________________
 
 Hosted Here: https://django.rubick.org/class-scheduler/
 
-Github Link: https://github.com/xerone9/Class-Scheduler-Django
+Github Link: https://github.com/xerone9/live_projects/tree/main/class_scheduler
 
 _________________________________________________________________________
